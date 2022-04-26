@@ -1,4 +1,4 @@
-### Welcome　 👋
+### <h1>Welcome</h1>　 👋
 
 <!--
 **tochiman/tochiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="left"> 
+<p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tochiman&layout=compact&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=tochiman&theme=onedark&show_icons=ture" />
-</h1>
+</p>
 
-<h1>Work</h1>
+<h2>Work</h2>
