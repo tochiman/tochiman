@@ -29,4 +29,7 @@ Here are some ideas to get you started:
     <li>
      Youtube変換アプリ(by Python(tkinter))
   </li>
+  <li>
+    高額物品管理システム(by Python(customtkinter))
+  </li>
 </ol>
