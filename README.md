@@ -49,7 +49,7 @@ Here are some ideas to get you started:
     <a href='https://github.com/tochiman/AppointmentShareSite'>AppointmentShareSite(by Next.js and Go)</a>
   </li>
     <li>
-       Modeken System(Webで発券システム)
+        <a href='https://github.com/tochiman/modeken-ticket-system'>Modeken-tiket-System(Webで発券システム)(by Next.js and Python)</a>
   </li>
 </ol>
 
