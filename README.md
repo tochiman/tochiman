@@ -48,9 +48,6 @@ Here are some ideas to get you started:
   <li>
     <a href='https://github.com/tochiman/AppointmentShareSite'>AppointmentShareSite(by Next.js and Go)</a>
   </li>
-    <li>
-        <a href='https://github.com/tochiman/modeken-ticket-system'>Modeken-tiket-System(Webで発券システム)(by Next.js and Python)</a>
-  </li>
 </ol>
 
 <h2>Work in Compelte</h2>
@@ -63,5 +60,8 @@ Here are some ideas to get you started:
   </li>
   <li>
     高額物品管理システム(by Python(customtkinter))
+  </li>
+  <li>
+        <a href='https://github.com/tochiman/modeken-ticket-system'>Modeken-tiket-System(Webで発券システム)(by Next.js and Python)</a>
   </li>
 </ol>
