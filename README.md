@@ -46,8 +46,9 @@ Here are some ideas to get you started:
 <h2>Work in Progress...</h2>
 <ol>
   <li>
-    <a href='https://github.com/tochiman/AppointmentShareSite'>AppointmentShareSite(by Next.js and Go)</a>
+    <a href='https://github.com/tochiman/brain-quoridor'>quoridorの進化系(by Next.js and Python)</a>
   </li>
+  
 </ol>
 
 <h2>Work in Compelte</h2>
@@ -63,5 +64,11 @@ Here are some ideas to get you started:
   </li>
   <li>
         <a href='https://github.com/tochiman/modeken-ticket-system'>Modeken-tiket-System(Webで発券システム)(by Next.js and Python)</a>
+  </li>
+  <li>
+        <a href='https://github.com/tochiman/Quizsalad'>クイズ作成回答サイトby Next.js and Go)</a>
+  </li>
+  <li>
+    <a href='https://github.com/tochiman/AppointmentShareSite'>AppointmentShareSite(by Next.js and Go)</a>
   </li>
 </ol>
