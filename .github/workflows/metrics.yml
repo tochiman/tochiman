@@ -9,7 +9,7 @@ on:
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
-    runs-on: ubuntu-latest
+    runs-on: arc-runner-tochiman
     permissions:
       contents: write
     steps:
